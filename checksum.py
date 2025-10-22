@@ -60,7 +60,7 @@ def main():
         count += 1
 
 if __name__ == "__main__":
-    print(main())
+    main()
 
 
 # Read in the tcp_addrs_0.txt file.
